@@ -13,4 +13,4 @@ This project is a user management system built with React, Axios. It allows user
 
 ## Netlify Deployed URL
 
-🔸*Check out My ContextAPI Shopping Cart  Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://react-axios-61.netlify.app/)
+🔸*Check out My Deployed URL Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://react-axios-61.netlify.app/)
